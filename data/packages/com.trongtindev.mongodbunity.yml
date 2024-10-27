@@ -1,0 +1,22 @@
+name: com.trongtindev.mongodbunity
+displayName: MongoDB Unity
+description: >-
+  MongoDB Unity is a lightweight integration of the MongoDB .NET Driver for
+  Unity game development. This package enables developers to easily connect and
+  interact with MongoDB databases from within Unity, allowing for efficient data
+  storage and retrieval for games and applications.
+repoUrl: https://github.com/trongtindev/MongoDB-Unity
+parentRepoUrl: null
+licenseSpdxId: ''
+licenseName: MIT
+image: ''
+topics:
+  - data-management
+  - network
+  - utilities
+hunter: trongtindev
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+readme: release:README.md
+createdAt: 1730047280414
